@@ -3,16 +3,12 @@
 Following repository represents step-by-step `beginner` friendly way of **doing** `react`.
 It purely focuses on **implementation** and that's it..
 
----
-
 ## **📌 Contents**
 
-📚 step-by-step breakdown of react-concepts and fundamentals.
-⚙️ implementation-focused examples for each concept.
-🧩 mini-challenges/ projects to ehannce and think in learning
-💡 trying to develop best-practices in writing react-code
-
----
+-📚 step-by-step breakdown of react-concepts and fundamentals.
+-⚙️ implementation-focused examples for each concept.
+-🧩 mini-challenges/ projects to ehannce and think in learning.
+-💡 trying to develop best-practices in writing react-code
 
 ## **📝 NOTE**
 
