@@ -10,7 +10,7 @@ It purely focuses on **implementation** and that's it..
 - 🧩 mini-challenges/ projects to ehannce and think in learning.
 - 💡 trying to develop best-practices in writing react-code
 
-## **📝 NOTE**
+## **📝 NOTES**
 
 This repository is built as personal learning log -- to understand, apply, and improve the on the basis of concepts learned during this journey.
 
